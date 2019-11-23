@@ -1,0 +1,6 @@
+{
+  "driverName" : "org.apache.hive.jdbc.HiveDriver",
+  "url" : "jdbc:hive2://hadoop1:10000",
+  "user" : "root",
+  "password" : "000000",
+}

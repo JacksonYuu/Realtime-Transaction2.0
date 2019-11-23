@@ -1,0 +1,4 @@
+{
+  "quorum" : "hadoop1",
+  "roodir" : "hdfs://hadoop1:9000/hbase"
+}

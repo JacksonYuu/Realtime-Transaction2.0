@@ -1,0 +1,14 @@
+{
+  "namespace" : "orderSpace",
+  "tables" : [
+    {
+      "tablename" : "orderSpace:orders",
+      "family" : "info",
+      "columns" : [
+        {
+          "column" : "place,number"
+        }
+      ]
+    }
+  ]
+}

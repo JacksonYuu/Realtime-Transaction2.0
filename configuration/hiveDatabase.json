@@ -1,0 +1,34 @@
+{
+  "database" : "kafka",
+  "tables" : [
+    {
+      "tablename" : "orders",
+      "columns" : [
+        {
+          "name" : "id",
+          "type" : "int"
+        },{
+          "name" : "currentTime",
+          "type" : "string"
+        },{
+          "name" : "destination",
+          "type" : "int"
+        },{
+          "name" : "number",
+          "type" : "int"
+        }
+      ]
+    },{
+      "tablename" : "city",
+      "columns" : [
+        {
+          "name" : "id",
+          "type" : "int"
+        },{
+          "name" : "name",
+          "type" : "string"
+        }
+      ]
+    }
+  ]
+}

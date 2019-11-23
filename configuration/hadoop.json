@@ -1,0 +1,6 @@
+{
+  "hdfs" : "hdfs://hadoop1:9000",
+  "path" : "/stormAndKafka",
+  "type" : ".txt",
+  "topic" : "1"
+}
